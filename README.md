@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hello World!</h1>
 <h2 align="center">I'm Abdul Wajid</h2>
 
 
-<h4 align="center">Blockchain Developer<br>Computer Science Graduate</h4>
+<h4 align="center">Blockchain Developer</h4>
 
 ###
 
