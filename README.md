@@ -2,12 +2,12 @@
 
 
 <p align="center">
-  <span style="font-size:30px;"><strong>Rust Developer | Solana | Typescript</strong></span>
+  <span"><strong>Rust Developer | Solana | Typescript</strong></span>
 </p>
 
 <br>
 
-<p align="left"><strong>web2 dev turned as web3 builder — still Googling errors, just on-chain now ;)</strong></p>
+<p align="left"><strong>web2 dev turned web3 builder — still Googling errors, just on-chain now ;)</strong></p>
 
 <p align="left">
   Hi there! I'm Abdul Wajid, a Blockchain nerd and web3 builder from Pakistan. Besides strong foundations in computer science fundamentals and software engineering principles, I happen to love building in web3 just because of its ecosystem and ever-evolving tech. From building and auditing on-chain smart contracts to DeFi apps and trading bots, I've proven experience in web3 with Rust, Solana, and Anchor.
