@@ -8,7 +8,7 @@
 <br>
 
 <p align="left">
-  Hi there! I'm Abdul Wajid, a Blockchain nerd and web3 builder from Pakistan. Besides strong foundations in computer science fundamentals and software engineering principles, I happen to love building in web3 just because of its ecosystem and ever-evolving tech. From building and auditing on-chain smart contracts to DeFi apps and trading bots, I've proven experience in web3 with Rust, Solana, and Anchor.
+  Hi there! I'm Abdul Wajid, a Blockchain researcher and web3 builder from Pakistan. Besides strong foundations in computer science fundamentals and software engineering principles, I happen to love building in web3 just because of its ecosystem and ever-evolving tech. From building and auditing on-chain smart contracts to DeFi apps and trading bots, I've proven experience in web3 with Rust, Solana, and Anchor.
   <br><br>
   ✅ Currently working on: Solana Smart Contracts.<br>
   ✅ Learning: DAO, DeFi exchanges, and Trading Bots.<br>
