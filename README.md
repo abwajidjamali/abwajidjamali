@@ -1,16 +1,14 @@
-### Abdul Wajid — Solana Smart Contract Engineer
-
----
+## Abdul Wajid — Solana Smart Contract Engineer
 
 I build smart contracts that go live on mainnet.
 
-Worked as a Solana Engineer at a Web3 startup.
+Worked as a Solana Engineer at a web3 startup.
 
-Top-Rated freelancer on Upwork, with 100% JSS.
+Top rated freelancer on Upwork, with 100% JSS.
 
 ---
 
-**What I've built:**
+**What I have built:**
 
 - SimpleLinker is a cross chain messaging and token transfer project connecting Solana and EVM chains. At BEATOZ job, I own the Solana side, designed and built the smart contracts that power it.
 - SolShield is a static analysis tool for Solana program security written in Rust. It detects missing signer checks, integer overflow/underflow, missing owner checks, missing PDA bump validation and much more.
@@ -25,11 +23,11 @@ Top-Rated freelancer on Upwork, with 100% JSS.
 Built advanced smart contracts for SimpleLinker, working across program design, cross-chain message passing, integration with EVM-side contracts, and a NestJS backend relayer.
 
 - **Top Rated Upwork Freelancer:**
-Delivering on-chain smart contracts and token programs for web3 clients, shipping high-quality blockchain solutions with expert level consultation while maintaining great client satisfaction.
+Delivering on-chain smart contracts and token programs for web3 clients, shipping high quality blockchain solutions with expert level consultation while maintaining great client satisfaction.
 ---
 
 **Stack:** Rust, Anchor, Solana, TypeScript, NestJS
 
 ---
 
-[LinkedIn](https://linkedin.com/in/abwajidjamali) | Pakistan (GMT+5)
+[LinkedIn](https://linkedin.com/in/abwajidjamali)  |  Pakistan (GMT+5)
