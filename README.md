@@ -1,34 +1,36 @@
-<h2 align="center" id="">Hello World! 👋</h2>
+### Abdul Wajid — Solana Smart Contract Engineer
 
+---
 
-<p align="center">
-  <span"><strong>Rust Developer | Solana Smart Contracts | Typescript</strong></span>
-</p>
+Building smart contracts that go live on mainnet.
 
-<br>
+Worked as a Solana Engineer at a Web3 startup.
 
-<p align="left">
-  Hi there! I'm Abdul Wajid, a Blockchain researcher and web3 builder from Pakistan. Besides strong foundations in computer science fundamentals and software engineering principles, I happen to love building in web3 just because of its ecosystem and ever-evolving tech. From building and auditing on-chain smart contracts to DeFi apps and trading bots, I've proven experience in web3 with Rust, Solana, and Anchor.
-  <br><br>
-  ✅ Currently working on: Solana Smart Contracts.<br>
-  ✅ Learning: DAO, DeFi exchanges, and Trading Bots.<br>
-  ✅ Ask me about: Rust, off-chain development, smart contract audits, and security.<br>
-  ✅ Tech I use: Rust, TypeScript, Anchor, Next.js, Solana, Jupiter, Raydium.<br>
-  🤝 Open to collaborating on innovative Web3 ideas or open source projects.
-</p>
+Top-Rated freelancer on Upwork, with 100% JSS.
 
-###
+---
 
-<h3 align="left">I code with:</h3>
+**What I've built:**
 
-###
+- SimpleLinker is a cross chain messaging and token transfer project connecting Solana and EVM chains. At BEATOZ job, I own the Solana side, designed and built the secure smart contracts that power it.
+- SolShield is a static analysis tool for Solana program security written in Rust. It detects missing signer checks, integer overflow/underflow, missing owner checks, missing PDA bump validation, and much more.
+- Advanced trading infrastructure in Rust, built high-end trading bots, covering live exchange WebSocket order book feeds, authenticated order execution, and safety constrained trade logic.
+- A set of Rust system projects built from scratch, including a Solana failed transaction analyzer, a password strength analyzer API published to crates.io, a reverse proxy, a DNS resolver built on raw UDP and a Solana transaction parser CLI.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo"  />
-</div>
+---
+
+**Experience:**
+
+- **Solana Engineer at BEATOZ:**
+Built multiple secure smart contracts including SimpleLiner. Working across program design, cross-chain message passing, integration with EVM-side contracts and a NEST backend relayer.
+
+- **Top Rated Upwork Freelancer:**
+Delivering smart contract, backend system for trading bots for web3 clients, including SPL tokens and Solana program development. 100% Job Success Score across all completed contracts.
+
+---
+
+**Stack:** Rust, Anchor, Solana, TypeScript, NestJS
+
+---
+
+[LinkedIn](https://linkedin.com/in/abwajidjamali) | Pakistan (GMT+5)
