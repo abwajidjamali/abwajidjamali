@@ -1,21 +1,22 @@
----
 
-## Abdul Wajid ~ Solana Smart Contract Engineer
+# Abdul Wajid
+## Rust Software Engineer 🦀
 
-I build smart contracts that go live on mainnet.
-
-Working as a Solana Engineer at a Web3 startup.
-
-Top Rated freelancer on Upwork, with 100% JSS.
+I build high-performance blockchain and backend systems in Rust language. Proven experiece in Web3 startups and freelancing. Comfortable working in remote environments and collaborating with global teams across all time zones.
 
 ---
-
 **Projects, I have worked on:**
 
-- SimpleLinker is a cross chain messaging and token transfer project connecting Solana and EVM chains. At BEATOZ job, I own the Solana side, designed and built the smart contracts that power it.
-- SolShield is a static analysis tool for Solana program security written in Rust. It detects missing signer checks, integer overflow/underflow, missing owner checks, missing PDA bump validation and much more.
-- Advanced trading infrastructure in Rust, built high-end trading bots, covering live exchange WebSocket order book feeds, authenticated order execution and safety constrained trade logic.
-- A set of Rust system projects built from scratch, including a Solana failed transaction analyzer, a password strength analyzer API published to crates.io, a reverse proxy, a DNS resolver built on raw UDP and Solana transaction parser CLI.
+- SimpleLinker is a blockchain interoperability project that enables cross-chain communication between Solana and EVM blockchains, and also a NestJS backend that works as a relayer and monitors, verifies and forwards events.
+  
+- SolShield is a Rust toolkit that automatically audits Solana programs by detecting common vulnerabilities through static
+analysis and pattern-based checks. Developers can share their code and catch security issues before deployment.
+
+- Pulse is a Rust real-time server built with Axum, Tokio that pushes live updates to thousands of connected clients. Users
+subscribe to channels, and messages are delivered instantly, with dead connections cleaned up automatically.
+
+- PZN Token is a Solana SPL token with advanced features like transfer taxes, anti-bot launch protection, staking and router
+whitelisting, it also has an emergency circuit breaker to enable / disable trading if something goes wrong at launch.
 
 ---
 
@@ -24,11 +25,17 @@ Top Rated freelancer on Upwork, with 100% JSS.
 - **Solana Engineer at BEATOZ:**
 Built advanced smart contracts for SimpleLinker, working across program design, cross-chain message passing, integration with EVM-side contracts, and a NestJS backend relayer.
 
-- **Top Rated Upwork Freelancer:**
-Delivering on-chain smart contracts and token programs for web3 clients, shipping high quality blockchain solutions with expert level consultation while maintaining great client satisfaction.
+- **Top Rated Freelancer on Upwork:**
+Delivering smart contracts and backend APIs to global clients, shipping high quality blockchain solutions with expert level consultation while maintaining great client satisfaction.
 ---
 
-**Stack:** Rust, Anchor, Solana, TypeScript, NestJS
+**Languages**: Rust, TypeScript, Python.
+
+**Blockchain**: Solana, Anchor, EVM.
+
+**Backend**: Axum, Actix Web, NodeJS, NestJS.
+
+**Tools**: Linux, Docker, Git, WSL.
 
 ---
 
