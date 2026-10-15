@@ -4,6 +4,10 @@
 
 I build Solana programs and backend APIs in Rust language.
 
+Worked as a lead Solana developer at a Web3 startup.
+
+Maintaining a Top Rated freelancing account on Upwork.
+
 ---
 **Projects, I have worked on:**
 
@@ -22,11 +26,11 @@ whitelisting, it also has an emergency circuit breaker to enable / disable tradi
 
 **Experience:**
 
-- **Solana Engineer at BEATOZ:**
-Built advanced smart contracts for SimpleLinker, working across program design, cross-chain message passing, integration with EVM-side contracts, and a NestJS backend relayer.
+- **Solana Smart Contract Developer at BEATOZ:**
+Led the Solana part of a cross-chain interoperability project at the comapny. Implemented smart contracts with account validation and PDA based state management for the project. Integrated the programs with a NestJS backend relayer, achieving a fully working end-to-end communication layer from blockchain A to blockchain B.
 
 - **Top Rated Freelancer on Upwork:**
-Delivering smart contracts and backend APIs to global clients, shipping high quality blockchain solutions with expert level consultation while maintaining great client satisfaction.
+Working as a Top rated freelancer on Upwork with 100% Job Success Score and an average client rating of 4.8/5. Successfully delivered multiple projects including token programs, NFT minting programs and trading automations. Collaborating with global clients to deliver high quality results with a strong focus on clear communication and reliable project delivery.
 ---
 
 **Languages**: Rust, TypeScript, Python.
