@@ -2,7 +2,7 @@
 # Abdul Wajid
 ## Rust Software Engineer 🦀
 
-I build high-performance blockchain and backend systems in Rust language. Proven experiece in Web3 startups and freelancing. Comfortable working in remote environments and collaborating with global teams across all time zones.
+I build Solana programs and backend APIs in Rust language.
 
 ---
 **Projects, I have worked on:**
