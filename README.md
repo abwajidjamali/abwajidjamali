@@ -1,6 +1,6 @@
 
-# Abdul Wajid
-## Rust Software Engineer 🦀
+# Rust Software Engineer 🦀
+ 
 
 I build Solana programs and backend APIs in Rust language.
 
